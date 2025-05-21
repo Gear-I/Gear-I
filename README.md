@@ -16,7 +16,7 @@ Welcome to my GitHub! I'm a passionate and self-motivated cybersecurity professi
 
 ## 🛠️ Homelab Projects
 
-- 🔧 [Built and documented a custom Pfsense network](https://medium.com/@mxrdvwvn/pfsense-networking-part-1-a4539ecd9ffc)
+- 🔧 Built and documented a custom Pfsense network
 - 📊 Deployed Splunk to monitor firewall and intrusion prevention system (Snort) logs
 - ☁️ Self-hosted SIEM using Wazuh
 - 🔐 Built identity-aware segmentation/ZTNA architecture with Cloudflare
