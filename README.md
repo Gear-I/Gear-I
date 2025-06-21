@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate and self-motivated cybersecurity professi
 ## 🔐 About Me
 
 - 🎓 Pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University
-- 🛡️ Top 8% on Tryhackme
+- 🛡️ Top 7% on Tryhackme
 - 🧠 Lifelong learner passionate about digital forensics, SIEM, incident response, and threat intelligence
 
 ---
