@@ -46,6 +46,7 @@ Welcome to my GitHub! I'm a passionate and self-motivated cybersecurity professi
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA%20Network+-E00000?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security+-E00000?style=for-the-badge&logo=comptia&logoColor=white)
 ![CompTIA CySA+](https://img.shields.io/badge/CompTIA%20CySA+-E00000?style=for-the-badge&logo=comptia&logoColor=white)
+![CompTIA Pentest+](https://img.shields.io/badge/CompTIA%20Pentest+-E00000?style=for-the-badge&logo=comptia&logoColor=white) 
 ![Google IT Support](https://img.shields.io/badge/Google%20IT%20Support%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google%20Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Google AI Essentials](https://img.shields.io/badge/Google%20AI%20Essentials-34A853?style=for-the-badge&logo=google&logoColor=white)
