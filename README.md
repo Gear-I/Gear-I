@@ -5,8 +5,8 @@ Welcome to my GitHub! I'm a passionate and self-motivated cybersecurity professi
 ---
 
 ## 🔐 About Me
-
-- 🎓  B.S. in Cybersecurity and Information Assurance at Western Governors University
+- 🎓  M.S. in Cybersecurity and Information Assurance at Western Governors University (Ancipated August 2026)
+- 🎓  B.S. in Cybersecurity and Information Assurance at Western Governors University (November 2025)
 - 🛡️ Top 7% on Tryhackme
 - 🧠 Lifelong learner passionate about digital forensics, SIEM, incident response, and threat intelligence
 
